@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prasanthpublication.github.io/Prasanth-N.M/sitemap.txt
+Sitemap: https://prasanthpublication.github.io/Prasanth-N.M/sitemap.xml
