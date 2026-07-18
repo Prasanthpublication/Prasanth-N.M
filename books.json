@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "the-ashwood-murders",
+    "title": "The Ashwood Murders",
+    "subtitle": "A dark small-town mystery where buried secrets return and Detective Evelyn Carter must uncover the truth before another life is taken.",
+    "series": "Detective Evelyn Carter Mystery Series",
+    "bookNumber": 1,
+    "genre": "Mystery",
+    "cover": "covers/the-ashwood-murders.jpg",
+    "description": "When a disturbing murder shakes Ashwood, Detective Evelyn Carter enters a town protected by silence. Every witness hides something, old histories begin to surface, and the investigation reveals that the crime may be connected to secrets the community has guarded for years.",
+    "buyUrl": "https://play.google.com/store/books/details?id=5-HxEQAAQBAJ",
+    "featured": true
+  },
+  {
+    "slug": "the-blackwood-asylum",
+    "title": "The Blackwood Asylum",
+    "subtitle": "Detective Evelyn Carter investigates an abandoned asylum where old records, missing patients and a new crime point toward a terrifying hidden truth.",
+    "series": "Detective Evelyn Carter Mystery Series",
+    "bookNumber": 2,
+    "genre": "Mystery",
+    "cover": "covers/the-blackwood-asylum.jpg",
+    "description": "Blackwood Asylum has been closed for years, but its past is not finished. When new evidence draws Detective Evelyn Carter inside its history, she uncovers missing files, conflicting testimony and a pattern of disappearances that someone is still desperate to conceal.",
+    "buyUrl": "https://play.google.com/store/books/details?id=gefxEQAAQBAJ",
+    "featured": true
+  },
+  {
+    "slug": "the-ravens-hollow-killings",
+    "title": "The Raven's Hollow Killings",
+    "subtitle": "A remote community, a string of killings and a trail of clues force Detective Evelyn Carter to confront a murderer hidden behind local legend.",
+    "series": "Detective Evelyn Carter Mystery Series",
+    "bookNumber": 3,
+    "genre": "Mystery",
+    "cover": "covers/the-ravens-hollow-killings.jpg",
+    "description": "Raven's Hollow is a place of old stories and tightly guarded loyalties. When violence returns, Detective Evelyn Carter must separate folklore from evidence and expose the human motive beneath the fear.",
+    "buyUrl": "https://play.google.com/store/books/details?id=H-7xEQAAQBAJ",
+    "featured": false
+  }
+]
